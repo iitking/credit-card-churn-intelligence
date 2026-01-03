@@ -1,0 +1,125 @@
+{
+    "model_name": "XGBoost",
+    "created_at": "2026-10-18T10:32:42.638239",
+    "random_seed": 42,
+    "optimal_threshold": 0.09,
+    "metrics_at_optimal_threshold": {
+        "threshold": 0.09,
+        "accuracy": 0.9422507403751234,
+        "precision": 0.744131455399061,
+        "recall": 0.9753846153846154,
+        "f1": 0.8442077230359522,
+        "roc_auc": 0.9929109573554018,
+        "pr_auc": 0.9679000228876783,
+        "confusion_matrix": {
+            "true_negatives": 1592,
+            "false_positives": 109,
+            "false_negatives": 8,
+            "true_positives": 317
+        },
+        "business_impact": {
+            "saved_revenue_usd": 152160.0,
+            "retention_costs_usd": 25560.0,
+            "net_benefit_usd": 126600.0,
+            "roi_ratio": 5.95
+        }
+    },
+    "feature_names": [
+        "ordinal__Income_Category",
+        "ordinal__Card_Category",
+        "ordinal__Education_Level",
+        "nominal__Gender_M",
+        "nominal__Marital_Status_Married",
+        "nominal__Marital_Status_Single",
+        "nominal__Marital_Status_Unknown",
+        "numerical__Customer_Age",
+        "numerical__Dependent_count",
+        "numerical__Months_on_book",
+        "numerical__Total_Relationship_Count",
+        "numerical__Months_Inactive_12_mon",
+        "numerical__Contacts_Count_12_mon",
+        "numerical__Credit_Limit",
+        "numerical__Total_Revolving_Bal",
+        "numerical__Avg_Open_To_Buy",
+        "numerical__Total_Amt_Chng_Q4_Q1",
+        "numerical__Total_Trans_Amt",
+        "numerical__Total_Trans_Ct",
+        "numerical__Total_Ct_Chng_Q4_Q1",
+        "numerical__Avg_Utilization_Ratio",
+        "numerical__Avg_Transaction_Amt",
+        "numerical__Trans_Count_Per_Month",
+        "numerical__Trans_Amt_Per_Month",
+        "numerical__Inactive_Ratio",
+        "numerical__Contact_Intensity",
+        "numerical__Revolving_to_Credit_Ratio",
+        "numerical__Total_Products_Per_Year"
+    ],
+    "top_features": [
+        {
+            "feature": "numerical__Total_Trans_Ct",
+            "importance": 25.05500030517578
+        },
+        {
+            "feature": "numerical__Total_Revolving_Bal",
+            "importance": 10.14900016784668
+        },
+        {
+            "feature": "numerical__Total_Relationship_Count",
+            "importance": 9.461999893188477
+        },
+        {
+            "feature": "numerical__Avg_Transaction_Amt",
+            "importance": 6.38100004196167
+        },
+        {
+            "feature": "numerical__Total_Trans_Amt",
+            "importance": 5.767000198364258
+        },
+        {
+            "feature": "numerical__Total_Ct_Chng_Q4_Q1",
+            "importance": 4.224999904632568
+        },
+        {
+            "feature": "numerical__Inactive_Ratio",
+            "importance": 3.51200008392334
+        },
+        {
+            "feature": "numerical__Avg_Utilization_Ratio",
+            "importance": 3.118000030517578
+        },
+        {
+            "feature": "numerical__Total_Amt_Chng_Q4_Q1",
+            "importance": 2.684999942779541
+        },
+        {
+            "feature": "numerical__Months_Inactive_12_mon",
+            "importance": 2.6019999980926514
+        },
+        {
+            "feature": "numerical__Total_Products_Per_Year",
+            "importance": 2.255000114440918
+        },
+        {
+            "feature": "numerical__Trans_Amt_Per_Month",
+            "importance": 2.247999906539917
+        },
+        {
+            "feature": "nominal__Gender_M",
+            "importance": 2.242000102996826
+        },
+        {
+            "feature": "numerical__Customer_Age",
+            "importance": 2.2269999980926514
+        },
+        {
+            "feature": "numerical__Credit_Limit",
+            "importance": 2.187999963760376
+        }
+    ],
+    "training_samples": 8101,
+    "test_samples": 2026,
+    "target_classes": {
+        "0": "Existing Customer",
+        "1": "Attrited Customer"
+    }
+}

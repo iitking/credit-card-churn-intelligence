@@ -1,0 +1,93 @@
+[
+    {
+        "model_name": "Logistic Regression",
+        "cv_f1_mean": 0.6697,
+        "cv_f1_std": 0.0116,
+        "cv_roc_auc_mean": 0.9351,
+        "test_accuracy": 0.8696939782823297,
+        "test_precision": 0.5636743215031316,
+        "test_recall": 0.8307692307692308,
+        "test_f1": 0.6716417910447762,
+        "test_roc_auc": 0.9343535476868811,
+        "test_pr_auc": 0.7609765114519822,
+        "net_business_value_usd": 100860.0
+    },
+    {
+        "model_name": "Random Forest",
+        "cv_f1_mean": 0.8696,
+        "cv_f1_std": 0.0169,
+        "cv_roc_auc_mean": 0.9883,
+        "test_accuracy": 0.9521224086870681,
+        "test_precision": 0.8630573248407644,
+        "test_recall": 0.8338461538461538,
+        "test_f1": 0.8482003129890453,
+        "test_roc_auc": 0.9862578573689684,
+        "test_pr_auc": 0.940015700033562,
+        "net_business_value_usd": 111240.0
+    },
+    {
+        "model_name": "Gradient Boosting",
+        "cv_f1_mean": 0.9101,
+        "cv_f1_std": 0.0131,
+        "cv_roc_auc_mean": 0.9926,
+        "test_accuracy": 0.9698914116485686,
+        "test_precision": 0.952054794520548,
+        "test_recall": 0.8553846153846154,
+        "test_f1": 0.9011345218800648,
+        "test_roc_auc": 0.9926432415321305,
+        "test_pr_auc": 0.9668678660178338,
+        "net_business_value_usd": 115920.0
+    },
+    {
+        "model_name": "Hist Gradient Boosting",
+        "cv_f1_mean": 0.9011,
+        "cv_f1_std": 0.0146,
+        "cv_roc_auc_mean": 0.9927,
+        "test_accuracy": 0.9713721618953604,
+        "test_precision": 0.9405940594059405,
+        "test_recall": 0.8769230769230769,
+        "test_f1": 0.9076433121019107,
+        "test_roc_auc": 0.9929724596391263,
+        "test_pr_auc": 0.9679217875444289,
+        "net_business_value_usd": 118620.0
+    },
+    {
+        "model_name": "Extra Trees",
+        "cv_f1_mean": 0.8347,
+        "cv_f1_std": 0.0195,
+        "cv_roc_auc_mean": 0.9792,
+        "test_accuracy": 0.9387956564659428,
+        "test_precision": 0.819047619047619,
+        "test_recall": 0.7938461538461539,
+        "test_f1": 0.80625,
+        "test_roc_auc": 0.9716185049518382,
+        "test_pr_auc": 0.8936764185025249,
+        "net_business_value_usd": 104940.0
+    },
+    {
+        "model_name": "XGBoost",
+        "cv_f1_mean": 0.9077,
+        "cv_f1_std": 0.0112,
+        "cv_roc_auc_mean": 0.9925,
+        "test_accuracy": 0.9713721618953604,
+        "test_precision": 0.9107692307692308,
+        "test_recall": 0.9107692307692308,
+        "test_f1": 0.9107692307692308,
+        "test_roc_auc": 0.9929109573554018,
+        "test_pr_auc": 0.9679000228876783,
+        "net_business_value_usd": 122580.0
+    },
+    {
+        "model_name": "LightGBM",
+        "cv_f1_mean": 0.9114,
+        "cv_f1_std": 0.0124,
+        "cv_roc_auc_mean": 0.9929,
+        "test_accuracy": 0.9703849950641659,
+        "test_precision": 0.9127725856697819,
+        "test_recall": 0.9015384615384615,
+        "test_f1": 0.9071207430340557,
+        "test_roc_auc": 0.9928820151042372,
+        "test_pr_auc": 0.9653452476004539,
+        "net_business_value_usd": 121380.0
+    }
+]
