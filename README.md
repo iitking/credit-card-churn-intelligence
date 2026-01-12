@@ -9,3 +9,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 7 eda: verify missing value counts across all 23 columns -->
 <!-- milestone: 8 chore: setup project package configuration setup.py -->
 <!-- milestone: 9 eda: add initial Jupyter notebook for exploratory analysis -->
+<!-- milestone: 10 eda: inspect dataset shape and record counts in notebook -->
