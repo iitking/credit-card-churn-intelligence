@@ -10,3 +10,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 8 chore: setup project package configuration setup.py -->
 <!-- milestone: 9 eda: add initial Jupyter notebook for exploratory analysis -->
 <!-- milestone: 10 eda: inspect dataset shape and record counts in notebook -->
+<!-- milestone: 11 eda: analyze target variable Attrition_Flag distribution -->
