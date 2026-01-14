@@ -11,3 +11,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 9 eda: add initial Jupyter notebook for exploratory analysis -->
 <!-- milestone: 10 eda: inspect dataset shape and record counts in notebook -->
 <!-- milestone: 11 eda: analyze target variable Attrition_Flag distribution -->
+<!-- milestone: 12 eda: identify 16% class imbalance in churn rate -->
