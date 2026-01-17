@@ -14,3 +14,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 12 eda: identify 16% class imbalance in churn rate -->
 <!-- milestone: 13 eda: plot customer demographic age distribution -->
 <!-- milestone: 14 eda: check gender distribution across existing vs attrited customers -->
+<!-- milestone: 15 eda: plot boxplot of Avg_Open_To_Buy by churn status -->
