@@ -18,3 +18,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 16 eda: examine education level distribution across cohorts -->
 <!-- milestone: 17 eda: inspect marital status and dependent count correlation -->
 <!-- milestone: 18 eda: analyze income category tiers and card categories -->
+<!-- milestone: 19 eda: plot credit limit distribution and detect extreme right skew -->
