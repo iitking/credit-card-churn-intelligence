@@ -20,3 +20,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 18 eda: analyze income category tiers and card categories -->
 <!-- milestone: 19 eda: plot credit limit distribution and detect extreme right skew -->
 <!-- milestone: 20 eda: analyze revolving balance behavior between churners and non-churners -->
+<!-- milestone: 21 eda: analyze customer age distribution outliers -->
