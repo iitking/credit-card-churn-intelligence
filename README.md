@@ -24,3 +24,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 22 eda: notice high concentration of zero revolving balance in churners -->
 <!-- milestone: 23 eda: explore average utilization ratio metrics -->
 <!-- milestone: 24 eda: investigate total transaction count and transaction amount -->
+<!-- milestone: 25 eda: compute preliminary correlation coefficients with churn -->
