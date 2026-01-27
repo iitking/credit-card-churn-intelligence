@@ -26,3 +26,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 24 eda: investigate total transaction count and transaction amount -->
 <!-- milestone: 25 eda: compute preliminary correlation coefficients with churn -->
 <!-- milestone: 26 eda: find strong transaction count drop off in churned accounts -->
+<!-- milestone: 27 eda: examine quarterly change metrics Q4 vs Q1 -->
