@@ -28,3 +28,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 26 eda: find strong transaction count drop off in churned accounts -->
 <!-- milestone: 27 eda: examine quarterly change metrics Q4 vs Q1 -->
 <!-- milestone: 28 eda: investigate customer service contact count correlations -->
+<!-- milestone: 29 eda: observe churn escalation with 3+ customer contacts in 12 months -->
