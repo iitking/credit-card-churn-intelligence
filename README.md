@@ -30,3 +30,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 28 eda: investigate customer service contact count correlations -->
 <!-- milestone: 29 eda: observe churn escalation with 3+ customer contacts in 12 months -->
 <!-- milestone: 30 eda: plot months inactive distribution in past 12 months -->
+<!-- milestone: 31 eda: generate automated profiling report output-2.html -->
