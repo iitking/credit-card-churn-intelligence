@@ -29,3 +29,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 27 eda: examine quarterly change metrics Q4 vs Q1 -->
 <!-- milestone: 28 eda: investigate customer service contact count correlations -->
 <!-- milestone: 29 eda: observe churn escalation with 3+ customer contacts in 12 months -->
+<!-- milestone: 30 eda: plot months inactive distribution in past 12 months -->
