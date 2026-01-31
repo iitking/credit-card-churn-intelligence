@@ -31,3 +31,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 29 eda: observe churn escalation with 3+ customer contacts in 12 months -->
 <!-- milestone: 30 eda: plot months inactive distribution in past 12 months -->
 <!-- milestone: 31 eda: generate automated profiling report output-2.html -->
+<!-- milestone: 32 eda: document data summary and initial hypotheses -->
