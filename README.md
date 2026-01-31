@@ -32,3 +32,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 30 eda: plot months inactive distribution in past 12 months -->
 <!-- milestone: 31 eda: generate automated profiling report output-2.html -->
 <!-- milestone: 32 eda: document data summary and initial hypotheses -->
+<!-- milestone: 33 docs: summarize key findings from exploratory data analysis -->
