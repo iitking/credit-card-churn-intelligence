@@ -34,3 +34,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 32 eda: document data summary and initial hypotheses -->
 <!-- milestone: 33 docs: summarize key findings from exploratory data analysis -->
 <!-- milestone: 34 refactor: create modular config directory and config.py -->
+<!-- milestone: 35 config: define base paths and target column constants -->
