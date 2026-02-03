@@ -35,3 +35,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 33 docs: summarize key findings from exploratory data analysis -->
 <!-- milestone: 34 refactor: create modular config directory and config.py -->
 <!-- milestone: 35 config: define base paths and target column constants -->
+<!-- milestone: 36 config: specify target mapping for Existing vs Attrited customer -->
