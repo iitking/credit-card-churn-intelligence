@@ -38,3 +38,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 36 config: specify target mapping for Existing vs Attrited customer -->
 <!-- milestone: 37 config: define Naive Bayes benchmark columns to drop -->
 <!-- milestone: 38 config: define identifier column CLIENTNUM list -->
+<!-- milestone: 39 feat: create src directory and src/__init__.py -->
