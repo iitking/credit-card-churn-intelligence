@@ -39,3 +39,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 37 config: define Naive Bayes benchmark columns to drop -->
 <!-- milestone: 38 config: define identifier column CLIENTNUM list -->
 <!-- milestone: 39 feat: create src directory and src/__init__.py -->
+<!-- milestone: 40 feat(data): implement initial data_loader.py skeleton -->
