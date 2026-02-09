@@ -42,3 +42,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 40 feat(data): implement initial data_loader.py skeleton -->
 <!-- milestone: 41 feat(data): add safe CSV file loader with error handling -->
 <!-- milestone: 42 feat(data): implement clean_data function to strip whitespace -->
+<!-- milestone: 43 feat(data): add python logging to data loading steps -->
