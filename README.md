@@ -43,3 +43,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 41 feat(data): add safe CSV file loader with error handling -->
 <!-- milestone: 42 feat(data): implement clean_data function to strip whitespace -->
 <!-- milestone: 43 feat(data): add python logging to data loading steps -->
+<!-- milestone: 44 feat(data): drop CLIENTNUM and benchmark classifier columns -->
