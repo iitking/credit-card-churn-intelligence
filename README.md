@@ -45,3 +45,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 43 feat(data): add python logging to data loading steps -->
 <!-- milestone: 44 feat(data): drop CLIENTNUM and benchmark classifier columns -->
 <!-- milestone: 45 feat(data): add prepare_features_and_target function -->
+<!-- milestone: 46 feat(data): implement stratified train test split with seed 42 -->
