@@ -47,3 +47,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 45 feat(data): add prepare_features_and_target function -->
 <!-- milestone: 46 feat(data): implement stratified train test split with seed 42 -->
 <!-- milestone: 47 feat(data): add input validation for missing target column -->
+<!-- milestone: 48 test: create tests directory and tests/__init__.py -->
