@@ -49,3 +49,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 47 feat(data): add input validation for missing target column -->
 <!-- milestone: 48 test: create tests directory and tests/__init__.py -->
 <!-- milestone: 49 test(data): add test_load_raw_data unit test -->
+<!-- milestone: 50 test(data): add test_clean_data to verify dropped columns -->
