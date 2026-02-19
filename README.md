@@ -54,3 +54,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 52 test(data): add test_get_train_test_split verifying stratification -->
 <!-- milestone: 53 test(data): test data loader behavior on missing file path -->
 <!-- milestone: 54 chore: setup pytest configuration and test runners -->
+<!-- milestone: 55 notebook: update notebook with clean modular loading -->
