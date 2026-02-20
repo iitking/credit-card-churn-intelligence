@@ -55,3 +55,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 53 test(data): test data loader behavior on missing file path -->
 <!-- milestone: 54 chore: setup pytest configuration and test runners -->
 <!-- milestone: 55 notebook: update notebook with clean modular loading -->
+<!-- milestone: 56 notebook: add correlation heatmap for numerical variables -->
