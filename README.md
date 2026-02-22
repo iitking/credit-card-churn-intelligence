@@ -57,3 +57,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 55 notebook: update notebook with clean modular loading -->
 <!-- milestone: 56 notebook: add correlation heatmap for numerical variables -->
 <!-- milestone: 57 notebook: analyze relationship between credit limit and utilization -->
+<!-- milestone: 58 notebook: explore multi-product customers vs single product churn -->
