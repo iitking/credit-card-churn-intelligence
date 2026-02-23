@@ -59,3 +59,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 57 notebook: analyze relationship between credit limit and utilization -->
 <!-- milestone: 58 notebook: explore multi-product customers vs single product churn -->
 <!-- milestone: 59 notebook: plot transaction velocity against customer tenure -->
+<!-- milestone: 60 notebook: add pairwise scatterplots for top numerical features -->
