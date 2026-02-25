@@ -61,3 +61,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 59 notebook: plot transaction velocity against customer tenure -->
 <!-- milestone: 60 notebook: add pairwise scatterplots for top numerical features -->
 <!-- milestone: 61 notebook: check distribution of inactive months in last year -->
+<!-- milestone: 62 notebook: inspect customer contact count friction signals -->
