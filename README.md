@@ -64,3 +64,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 62 notebook: inspect customer contact count friction signals -->
 <!-- milestone: 63 notebook: compare churn proportion across card categories -->
 <!-- milestone: 64 notebook: check income tier differences between genders -->
+<!-- milestone: 65 refactor(data): enforce strict column ordering in clean_data -->
