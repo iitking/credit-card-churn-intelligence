@@ -68,3 +68,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 66 refactor(data): optimize data_loader memory usage and type casting -->
 <!-- milestone: 67 feat(features): create src/features.py module -->
 <!-- milestone: 68 config: define ordinal hierarchical column orders in config.py -->
+<!-- milestone: 69 config: set Income_Category ordinal levels from Unknown to $120K+ -->
