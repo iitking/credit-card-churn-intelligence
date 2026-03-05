@@ -70,3 +70,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 68 config: define ordinal hierarchical column orders in config.py -->
 <!-- milestone: 69 config: set Income_Category ordinal levels from Unknown to $120K+ -->
 <!-- milestone: 70 config: set Card_Category levels Blue, Silver, Gold, Platinum -->
+<!-- milestone: 71 config: set Education_Level hierarchy from Uneducated to Doctorate -->
