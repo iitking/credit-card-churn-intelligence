@@ -71,3 +71,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 69 config: set Income_Category ordinal levels from Unknown to $120K+ -->
 <!-- milestone: 70 config: set Card_Category levels Blue, Silver, Gold, Platinum -->
 <!-- milestone: 71 config: set Education_Level hierarchy from Uneducated to Doctorate -->
+<!-- milestone: 72 config: define nominal columns Gender and Marital_Status -->
