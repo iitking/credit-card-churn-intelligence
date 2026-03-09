@@ -74,3 +74,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 72 config: define nominal columns Gender and Marital_Status -->
 <!-- milestone: 73 config: define base continuous numerical column names -->
 <!-- milestone: 74 feat(features): implement FeatureEngineer BaseEstimator class -->
+<!-- milestone: 75 feat(features): add Avg_Transaction_Amt derivation -->
