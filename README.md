@@ -76,3 +76,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 74 feat(features): implement FeatureEngineer BaseEstimator class -->
 <!-- milestone: 75 feat(features): add Avg_Transaction_Amt derivation -->
 <!-- milestone: 76 feat(features): add Trans_Count_Per_Month velocity feature -->
+<!-- milestone: 77 feat(features): add unit test for zero transaction count edge case -->
