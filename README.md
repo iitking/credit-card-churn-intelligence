@@ -75,3 +75,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 73 config: define base continuous numerical column names -->
 <!-- milestone: 74 feat(features): implement FeatureEngineer BaseEstimator class -->
 <!-- milestone: 75 feat(features): add Avg_Transaction_Amt derivation -->
+<!-- milestone: 76 feat(features): add Trans_Count_Per_Month velocity feature -->
