@@ -79,3 +79,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 77 feat(features): add unit test for zero transaction count edge case -->
 <!-- milestone: 78 feat(features): add Trans_Amt_Per_Month spending rate -->
 <!-- milestone: 79 feat(features): compute Inactive_Ratio relative to 12 months -->
+<!-- milestone: 80 feat(features): calculate Contact_Intensity support ratio -->
