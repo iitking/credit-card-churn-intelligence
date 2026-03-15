@@ -81,3 +81,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 79 feat(features): compute Inactive_Ratio relative to 12 months -->
 <!-- milestone: 80 feat(features): calculate Contact_Intensity support ratio -->
 <!-- milestone: 81 feat(features): calculate Revolving_to_Credit_Ratio -->
+<!-- milestone: 82 feat(features): compute Total_Products_Per_Year relationship deepening -->
