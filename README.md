@@ -84,3 +84,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 82 feat(features): compute Total_Products_Per_Year relationship deepening -->
 <!-- milestone: 83 feat(features): verify numerical feature scaling bounds -->
 <!-- milestone: 84 feat(features): add zero-division safety handling in FeatureEngineer -->
+<!-- milestone: 85 feat(features): implement build_preprocessor with ColumnTransformer -->
