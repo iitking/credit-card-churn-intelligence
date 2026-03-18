@@ -85,3 +85,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 83 feat(features): verify numerical feature scaling bounds -->
 <!-- milestone: 84 feat(features): add zero-division safety handling in FeatureEngineer -->
 <!-- milestone: 85 feat(features): implement build_preprocessor with ColumnTransformer -->
+<!-- milestone: 86 feat(features): configure OrdinalEncoder for hierarchy columns -->
