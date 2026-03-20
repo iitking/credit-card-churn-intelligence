@@ -87,3 +87,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 85 feat(features): implement build_preprocessor with ColumnTransformer -->
 <!-- milestone: 86 feat(features): configure OrdinalEncoder for hierarchy columns -->
 <!-- milestone: 87 feat(features): configure OneHotEncoder with drop='first' -->
+<!-- milestone: 88 feat(features): add StandardScaler for all numerical features -->
