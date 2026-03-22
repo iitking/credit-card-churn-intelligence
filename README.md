@@ -90,3 +90,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 88 feat(features): add StandardScaler for all numerical features -->
 <!-- milestone: 89 feat(features): implement build_full_feature_pipeline Pipeline -->
 <!-- milestone: 90 feat(features): add unknown value handling to OrdinalEncoder -->
+<!-- milestone: 91 feat(features): implement get_feature_names extraction utility -->
