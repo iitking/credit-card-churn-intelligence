@@ -92,3 +92,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 90 feat(features): add unknown value handling to OrdinalEncoder -->
 <!-- milestone: 91 feat(features): implement get_feature_names extraction utility -->
 <!-- milestone: 92 test(features): create test_features.py with unit tests -->
+<!-- milestone: 93 test(features): test derived ratios mathematical precision -->
