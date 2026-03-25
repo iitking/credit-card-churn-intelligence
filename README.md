@@ -94,3 +94,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 92 test(features): create test_features.py with unit tests -->
 <!-- milestone: 93 test(features): test derived ratios mathematical precision -->
 <!-- milestone: 94 test(features): test ColumnTransformer fit_transform shapes -->
+<!-- milestone: 95 test(features): test feature names mapping accuracy -->
