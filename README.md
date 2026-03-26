@@ -95,3 +95,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 93 test(features): test derived ratios mathematical precision -->
 <!-- milestone: 94 test(features): test ColumnTransformer fit_transform shapes -->
 <!-- milestone: 95 test(features): test feature names mapping accuracy -->
+<!-- milestone: 96 test(features): test feature names alignment with transformed matrix -->
