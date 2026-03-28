@@ -97,3 +97,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 95 test(features): test feature names mapping accuracy -->
 <!-- milestone: 96 test(features): test feature names alignment with transformed matrix -->
 <!-- milestone: 97 notebook: integrate FeatureEngineer into notebook experiments -->
+<!-- milestone: 98 notebook: verify transformed feature matrix shape (8101, 28) -->
