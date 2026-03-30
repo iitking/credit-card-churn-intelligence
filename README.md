@@ -99,3 +99,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 97 notebook: integrate FeatureEngineer into notebook experiments -->
 <!-- milestone: 98 notebook: verify transformed feature matrix shape (8101, 28) -->
 <!-- milestone: 99 refactor(features): add type annotations to transform pipeline -->
+<!-- milestone: 100 docs: document feature engineering rationale and domain formulas -->
