@@ -103,3 +103,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 101 docs: add mathematical formulas for engineered banking ratios -->
 <!-- milestone: 102 chore: update requirements with scikit-learn and scipy versions -->
 <!-- milestone: 103 feat(models): create src/models.py candidate model factory -->
+<!-- milestone: 104 feat(models): add LogisticRegression baseline with class_weight='balanced' -->
