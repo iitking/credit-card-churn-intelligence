@@ -105,3 +105,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 103 feat(models): create src/models.py candidate model factory -->
 <!-- milestone: 104 feat(models): add LogisticRegression baseline with class_weight='balanced' -->
 <!-- milestone: 105 feat(models): add RandomForestClassifier with balanced_subsample -->
+<!-- milestone: 106 feat(models): add GradientBoostingClassifier configuration -->
