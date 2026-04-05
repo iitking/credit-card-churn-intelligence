@@ -107,3 +107,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 105 feat(models): add RandomForestClassifier with balanced_subsample -->
 <!-- milestone: 106 feat(models): add GradientBoostingClassifier configuration -->
 <!-- milestone: 107 feat(models): add ExtraTreesClassifier candidate model -->
+<!-- milestone: 108 feat(models): add random_state consistency across all models -->
