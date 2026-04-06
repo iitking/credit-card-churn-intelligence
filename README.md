@@ -108,3 +108,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 106 feat(models): add GradientBoostingClassifier configuration -->
 <!-- milestone: 107 feat(models): add ExtraTreesClassifier candidate model -->
 <!-- milestone: 108 feat(models): add random_state consistency across all models -->
+<!-- milestone: 109 feat(models): add HistGradientBoostingClassifier -->
