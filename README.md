@@ -110,3 +110,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 108 feat(models): add random_state consistency across all models -->
 <!-- milestone: 109 feat(models): add HistGradientBoostingClassifier -->
 <!-- milestone: 110 feat(models): integrate XGBoost with scale_pos_weight for class imbalance -->
+<!-- milestone: 111 feat(models): integrate LightGBM with scale_pos_weight -->
