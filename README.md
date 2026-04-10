@@ -112,3 +112,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 110 feat(models): integrate XGBoost with scale_pos_weight for class imbalance -->
 <!-- milestone: 111 feat(models): integrate LightGBM with scale_pos_weight -->
 <!-- milestone: 112 feat(models): add resilient fallback when native libraries missing -->
+<!-- milestone: 113 feat(models): add create_ensemble_model soft voting utility -->
