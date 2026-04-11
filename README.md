@@ -114,3 +114,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 112 feat(models): add resilient fallback when native libraries missing -->
 <!-- milestone: 113 feat(models): add create_ensemble_model soft voting utility -->
 <!-- milestone: 114 feat(models): implement soft voting ensemble architecture -->
+<!-- milestone: 115 feat(eval): create src/evaluate.py module -->
