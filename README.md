@@ -116,3 +116,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 114 feat(models): implement soft voting ensemble architecture -->
 <!-- milestone: 115 feat(eval): create src/evaluate.py module -->
 <!-- milestone: 116 feat(eval): implement calculate_metrics for Accuracy, F1, ROC, PR-AUC -->
+<!-- milestone: 117 feat(eval): calculate confusion matrix TP, FP, TN, FN breakdown -->
