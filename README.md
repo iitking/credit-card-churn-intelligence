@@ -118,3 +118,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 116 feat(eval): implement calculate_metrics for Accuracy, F1, ROC, PR-AUC -->
 <!-- milestone: 117 feat(eval): calculate confusion matrix TP, FP, TN, FN breakdown -->
 <!-- milestone: 118 feat(eval): implement banking business impact metrics in evaluate.py -->
+<!-- milestone: 119 feat(eval): implement find_optimal_threshold search routine -->
