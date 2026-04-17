@@ -121,3 +121,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 119 feat(eval): implement find_optimal_threshold search routine -->
 <!-- milestone: 120 feat(eval): add print_evaluation_summary formatted report -->
 <!-- milestone: 121 feat(eval): add PR-AUC (Average Precision) metric calculation -->
+<!-- milestone: 122 feat(train): create src/train.py pipeline script -->
