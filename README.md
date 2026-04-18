@@ -122,3 +122,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 120 feat(eval): add print_evaluation_summary formatted report -->
 <!-- milestone: 121 feat(eval): add PR-AUC (Average Precision) metric calculation -->
 <!-- milestone: 122 feat(train): create src/train.py pipeline script -->
+<!-- milestone: 123 feat(train): implement 5-fold StratifiedKFold cross validation -->
