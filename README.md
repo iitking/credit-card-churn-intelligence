@@ -125,3 +125,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 123 feat(train): implement 5-fold StratifiedKFold cross validation -->
 <!-- milestone: 124 feat(train): compute cross validation F1 and ROC-AUC means -->
 <!-- milestone: 125 feat(train): benchmark candidate models and rank by test F1 -->
+<!-- milestone: 126 feat(train): record standard deviation of cross-validation folds -->
