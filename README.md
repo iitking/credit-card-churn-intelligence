@@ -127,3 +127,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 125 feat(train): benchmark candidate models and rank by test F1 -->
 <!-- milestone: 126 feat(train): record standard deviation of cross-validation folds -->
 <!-- milestone: 127 feat(train): select champion model (XGBoost) based on benchmarks -->
+<!-- milestone: 128 feat(train): calibrate champion model threshold for max ROI -->
