@@ -132,3 +132,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 130 feat(train): export best_churn_pipeline.joblib and pickle model -->
 <!-- milestone: 131 feat(train): save model_metadata.json with metrics and parameters -->
 <!-- milestone: 132 feat(train): save metrics_summary.json benchmark table -->
+<!-- milestone: 133 feat(train): verify model persistence and file sizes -->
