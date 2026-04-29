@@ -135,3 +135,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 133 feat(train): verify model persistence and file sizes -->
 <!-- milestone: 134 notebook: run Optuna hyperparameter study in notebook -->
 <!-- milestone: 135 notebook: test best hyperparameter settings on validation fold -->
+<!-- milestone: 136 notebook: evaluate final classifier on holdout set -->
