@@ -136,3 +136,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 134 notebook: run Optuna hyperparameter study in notebook -->
 <!-- milestone: 135 notebook: test best hyperparameter settings on validation fold -->
 <!-- milestone: 136 notebook: evaluate final classifier on holdout set -->
+<!-- milestone: 137 docs: update model benchmark results table in README -->
