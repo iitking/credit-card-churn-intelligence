@@ -139,3 +139,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 137 docs: update model benchmark results table in README -->
 <!-- milestone: 138 feat(explain): create src/explainability.py module -->
 <!-- milestone: 139 feat(explain): implement extract_feature_importances ranking -->
+<!-- milestone: 140 feat(explain): implement explain_customer_risk rule engine -->
