@@ -141,3 +141,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 139 feat(explain): implement extract_feature_importances ranking -->
 <!-- milestone: 140 feat(explain): implement explain_customer_risk rule engine -->
 <!-- milestone: 141 feat(explain): generate prescribed retention interventions -->
+<!-- milestone: 142 feat(explain): assign dynamic urgency levels to risk scores -->
