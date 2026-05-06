@@ -143,3 +143,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 141 feat(explain): generate prescribed retention interventions -->
 <!-- milestone: 142 feat(explain): assign dynamic urgency levels to risk scores -->
 <!-- milestone: 143 feat(explain): add rule-based multi-product stickiness checks -->
+<!-- milestone: 144 feat(predict): create src/predict.py ChurnPredictor engine -->
