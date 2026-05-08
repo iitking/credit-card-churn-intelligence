@@ -145,3 +145,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 143 feat(explain): add rule-based multi-product stickiness checks -->
 <!-- milestone: 144 feat(predict): create src/predict.py ChurnPredictor engine -->
 <!-- milestone: 145 feat(predict): implement predict_single customer scoring -->
+<!-- milestone: 146 feat(predict): implement predict_batch dataframe scoring -->
