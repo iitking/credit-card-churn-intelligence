@@ -146,3 +146,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 144 feat(predict): create src/predict.py ChurnPredictor engine -->
 <!-- milestone: 145 feat(predict): implement predict_single customer scoring -->
 <!-- milestone: 146 feat(predict): implement predict_batch dataframe scoring -->
+<!-- milestone: 147 feat(predict): add risk tier classification logic -->
