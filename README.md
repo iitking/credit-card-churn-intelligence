@@ -147,3 +147,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 145 feat(predict): implement predict_single customer scoring -->
 <!-- milestone: 146 feat(predict): implement predict_batch dataframe scoring -->
 <!-- milestone: 147 feat(predict): add risk tier classification logic -->
+<!-- milestone: 148 test(pipeline): create test_pipeline.py for inference testing -->
