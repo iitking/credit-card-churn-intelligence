@@ -150,3 +150,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 148 test(pipeline): create test_pipeline.py for inference testing -->
 <!-- milestone: 149 test(pipeline): test single prediction schema and bounds -->
 <!-- milestone: 150 test(pipeline): test batch prediction column enrichment -->
+<!-- milestone: 151 test(pipeline): verify risk tier label mapping -->
