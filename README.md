@@ -155,3 +155,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 153 feat(api): define Pydantic v2 schemas for CustomerFeatures -->
 <!-- milestone: 154 feat(api): implement /health and /metrics telemetry endpoints -->
 <!-- milestone: 155 feat(api): implement /predict single inference endpoint -->
+<!-- milestone: 156 feat(api): implement /predict/batch portfolio scoring endpoint -->
