@@ -158,3 +158,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 156 feat(api): implement /predict/batch portfolio scoring endpoint -->
 <!-- milestone: 157 feat(api): add CORS middleware and lazy predictor loading -->
 <!-- milestone: 158 feat(api): optimize JSON response serialization -->
+<!-- milestone: 159 test(api): create test_api.py with TestClient integration tests -->
