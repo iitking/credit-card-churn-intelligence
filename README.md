@@ -160,3 +160,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 158 feat(api): optimize JSON response serialization -->
 <!-- milestone: 159 test(api): create test_api.py with TestClient integration tests -->
 <!-- milestone: 160 feat(ui): create app.py Streamlit executive dashboard -->
+<!-- milestone: 161 feat(ui): add Customer Risk Simulator with Plotly gauge meter -->
