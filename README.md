@@ -162,3 +162,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 160 feat(ui): create app.py Streamlit executive dashboard -->
 <!-- milestone: 161 feat(ui): add Customer Risk Simulator with Plotly gauge meter -->
 <!-- milestone: 162 feat(ui): add Portfolio Batch Scoring tab with CSV export -->
+<!-- milestone: 163 feat(ui): add Exploratory Data Insights tab with distribution plots -->
