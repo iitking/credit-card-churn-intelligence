@@ -164,3 +164,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 162 feat(ui): add Portfolio Batch Scoring tab with CSV export -->
 <!-- milestone: 163 feat(ui): add Exploratory Data Insights tab with distribution plots -->
 <!-- milestone: 164 feat(ui): add Model Performance & Financial ROI calibration tab -->
+<!-- milestone: 165 feat(ui): add responsive layout and custom metric card styles -->
