@@ -165,3 +165,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 163 feat(ui): add Exploratory Data Insights tab with distribution plots -->
 <!-- milestone: 164 feat(ui): add Model Performance & Financial ROI calibration tab -->
 <!-- milestone: 165 feat(ui): add responsive layout and custom metric card styles -->
+<!-- milestone: 166 docker: create Dockerfile, docker-compose.yml, and .dockerignore -->
