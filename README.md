@@ -167,3 +167,4 @@ AI-Powered Customer Retention System.
 <!-- milestone: 165 feat(ui): add responsive layout and custom metric card styles -->
 <!-- milestone: 166 docker: create Dockerfile, docker-compose.yml, and .dockerignore -->
 <!-- milestone: 167 scripts: create run_training.sh, run_app.sh, run_api.sh -->
+<!-- milestone: 168 docs: finalize comprehensive README.md with architecture and API spec -->
