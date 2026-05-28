@@ -293,3 +293,4 @@ By calibrating the threshold using `src/evaluate.py`, the system maximizes net s
   <sub>Made with ❤️ by <a href="https://github.com/iitking">Nivesh Kumar Meena</a> · © 2026 · MIT License</sub>
 </div>
 
+<!-- milestone: 170 test: execute full test suite verifying all 12 tests passing -->
